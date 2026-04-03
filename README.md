@@ -1,6 +1,6 @@
 # Hi, I’m Saba 👋
 
-E-Commerce Project Manager with 10+ years’ experience delivering complex digital and commerce platforms (Shopify, headless builds, CMS integrations).
+Digital project and delivery lead specialising in e-commerce and platform builds (Shopify, headless, CMS integrations)
 
 I combine delivery leadership with hands-on technical understanding — from frontend builds to system integrations.
 
